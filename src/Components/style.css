@@ -1,0 +1,14 @@
+.loginPage {
+    background-image:url('../assets/bg.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+ 
+}
+.loginForm {
+    background-color: rgba(67, 3, 184, 0.466);
+    color: white;
+    height: 60%;
+}
+
+
